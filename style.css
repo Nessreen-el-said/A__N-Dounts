@@ -1,0 +1,1373 @@
+ /* section 1  */
+.card-title{
+    margin-left: 190px;
+    margin-top: 170px;
+}
+.card img{
+    margin-left: 80px;
+}
+.btn{
+    margin-left: 60px;
+}
+/* section2 */
+.card-titlle{
+    margin-top: 15px;
+}
+/* cards */
+
+.photo1 img{
+    width: 350px;
+    height: 300px;
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+.photo1 h4{
+    margin-left: 85px;
+}
+.photo1 p{
+    margin-left: 165px;
+    color: gray;
+}
+/* photo2 */
+.photo2{
+    margin-left: 400px;
+    margin-top: -439px;
+}
+.photo2 img{
+    margin-bottom: 10px;
+    margin-top: 50px;
+    width: 350px;
+    height: 300px;
+}
+.photo2 h4{
+    margin-left: 85px;
+}
+.photo2 p{
+    margin-left: 185px;
+    color: gray;
+}
+/* photo3 */
+.photo3{
+    margin-left: 800px;
+    margin-top: -439px; 
+}
+.photo3 img{
+    margin-bottom: 10px;
+    margin-top: 50px;
+    width: 350px;
+    height: 300px;
+}
+.photo3 h4{
+    margin-left: 85px;
+}
+.photo3 p{
+    margin-left: 195px;
+    color: gray;
+}
+/* button */
+.btn2{
+    margin-left:430px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+/* section3 */
+.jumbotron{
+    margin-left: 90px;
+    margin-top: 40px;
+    margin-bottom:40px ;
+    width: 1100px;
+    height: 300px;
+}
+.jumbotron h1 ,pre{
+    text-align: center;
+    color:black;
+  
+}
+.jumbotron h1{
+    margin-bottom: 25px;
+    color: rgb(71, 64, 64);
+    padding-top: 20px;
+}
+.jumbotron pre{
+    color: rgb(92, 84, 84);
+}
+.bttn{
+    margin-left: 390px;
+    margin-top: 15px;
+}
+/* section4 */
+.Lorem{
+    margin-left: 570px;
+}
+.pho6{
+    margin-top: 40px;
+    margin-left: 80px;
+}
+    /* footer */
+.fot{
+    margin-bottom: 40px;
+    margin-top: 70px;
+    margin-left: 130px;
+}       
+.carrd-title{
+    text-align: center;
+    margin-bottom: 20px;
+    padding-top: 50px;
+}
+.carrd-text{
+    margin-left: -9px;
+}
+.icons{
+    margin-left: 500px;
+    padding: 10px;
+}
+.last{
+    margin-left: 520px;
+    margin-top: 10px;
+}
+/* media */
+@media(max-width:1030px){
+.nav{
+    margin-left: 90px;
+}    
+.card-title{
+    margin-left: 390px;
+    margin-top: 170px;
+}
+.card-text{
+    margin-left: 220px;
+
+}
+.btn{
+    margin-left: 250px;
+}
+.card-titlle{
+    margin-top: 15px;
+}
+.card-textt{
+    margin-right: 5px;
+}
+
+.photo1 img{
+    width: 280px;
+    margin-left: 10px;
+} 
+.photo1 h4{
+    margin-left: 45px;
+}
+.photo1 p{
+    margin-left: 125px;
+    color: gray;
+}
+.photo2 img{
+    width: 290px;
+    margin-left: -80px;
+} 
+.photo2 h4{
+    margin-left:-40px;
+}
+.photo2 p{
+    margin-left: 60px;
+    color: gray;
+}
+.photo3 img{
+    width: 290px;
+    margin-left: -150px;
+} 
+.photo3 h4{
+    margin-left:-100px;
+}
+.photo3 p{
+    margin-left: 5px;
+    color: gray;
+}
+.btn2{
+    margin-left:130px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+.jumbotron{
+    margin-left: 10px;
+    margin-top: 40px;
+    margin-bottom:40px ;
+}
+.jumbotron h1 ,pre{
+    text-align: center;
+    color:black;
+}
+.jumbotron h1{
+    margin-bottom: 25px;
+    color: rgb(71, 64, 64);
+    padding-top: 20px;
+}
+.jumbotron pre{
+    color: rgb(92, 84, 84);
+}
+.bttn{
+    margin-left: 190px;
+    margin-top: 20px;
+}
+.Lorem{
+    margin-left: 470px;
+}
+.pho6{
+    margin-top: 40px;
+    margin-left: 140px;
+}
+.fot{
+    margin-bottom: 40px;
+    margin-top: 70px;
+    margin-left: 30px;
+}       
+.carrd-title{
+    text-align: center;
+    margin-bottom: 20px;
+    padding-top: 50px;
+}
+.carrd-text{
+    margin-left: 4px;
+}
+.icons{
+    margin-left: 400px;
+    padding: 10px;
+}
+.last{
+    margin-left: 420px;
+    margin-top: 10px;
+}
+}
+@media(max-width:995px){
+    .nav{
+        margin-left: 50px;
+    }  
+    .card  img{
+        margin-left: 5px;
+    }
+    .card-title{
+        margin-left: 440px;
+        margin-top: 170px;
+    }
+    .card-text{
+        margin-left: 320px;
+    
+    }
+    .btn{
+        margin-left: 380px;
+    }
+    .card-titlle{
+        margin-top: 15px;
+        margin-left: 160px;
+    }
+    .card-textt{
+        margin-left: 170px;
+    }
+    
+    .photo1 img{
+        width: 280px;
+        margin-left: -80px;
+    } 
+    .photo1 h4{
+        margin-left: -45px;
+    }
+    .photo1 p{
+        margin-left: 30px;
+        color: gray;
+    }
+    .photo2 img{
+        width: 290px;
+        margin-left: -170px;
+    } 
+    .photo2 h4{
+        margin-left:-120px;
+    }
+    .photo2 p{
+        margin-left: -25px;
+        color: gray;
+    }
+    .photo3 img{
+        width: 290px;
+        margin-left: -250px;
+    } 
+    .photo3 h4{
+        margin-left:-230px;
+    }
+    .photo3 p{
+        margin-left: -125px;
+        color: gray;
+    }
+    .btn2{
+        margin-left:-20px;
+        margin-top: 40px;
+        margin-bottom: 15px;
+    }
+    .jumbotron{
+        margin-left: -110px;
+        margin-top: 40px;
+        margin-bottom:40px ;
+    }
+    .jumbotron h1 ,pre{
+        text-align: center;
+        color:black;
+    }
+    .jumbotron h1{
+        margin-bottom: 25px;
+        color: rgb(71, 64, 64);
+        padding-top: 20px;
+    }
+    .jumbotron pre{
+        color: rgb(92, 84, 84);
+    }
+    .bttn{
+        margin-left: 70px;
+        margin-top: 20px;
+    }
+    .Lorem{
+        margin-left: 400px;
+    }
+    .pho6{
+        margin-top: 40px;
+        margin-left: 80px;
+    }
+    .fot{
+        margin-bottom: 40px;
+        margin-top: 70px;
+        margin-left: -80px;
+    }       
+    .carrd-title{
+        text-align: center;
+        margin-bottom: 20px;
+        padding-top: 50px;
+    }
+    .carrd-text{
+        margin-left: 5px;
+    }
+    .icons{
+        margin-left: 300px;
+        padding: 10px;
+    }
+    .last{
+        margin-left: 320px;
+        margin-top: 10px;
+    }
+    }
+    @media(max-width:800px){
+        .nav{
+            margin-left: 230px;
+        }    
+        .card-title{
+            margin-left: 400px;
+            margin-top: 110px;
+        }
+        .card-text{
+            margin-left: 330px;
+        
+        }
+        .btn{
+            margin-left: 440px;
+        }
+        .card-titlle{
+            margin-top: 15px;
+            margin-left: 160px;
+        }
+        .card-textt{
+            margin-left: 170px;
+        }
+        
+        .photo1 img{
+            width: 200px;
+            height: 300px;
+            margin-left: -30px;
+        } 
+        .photo1 h4{
+            margin-left: -25px;
+        }
+        .photo1 p{
+            margin-left: 50px;
+            color: gray;
+        }
+        .photo2 img{
+            width: 220px;
+            height: 300px;
+            margin-left: -200px;
+            margin-bottom: 10px;
+        } 
+        .photo2 h4{
+            margin-left:-190px;
+            margin-bottom: 8px;
+        }
+        .photo2 p{
+            margin-left: -95px;
+            color: gray;
+           
+        }
+        .photo3 img{
+            width: 220px;
+            height: 300px;
+            margin-left: -360px;
+        } 
+        .photo3 h4{
+            margin-left:-350px;
+        }
+        .photo3 p{
+            margin-left: -245px;
+            color: gray;
+        }
+        .btn2{
+            margin-left:-180px;
+            margin-top: 40px;
+            margin-bottom: 15px;
+        }
+        .jumbotron{
+            margin-left: -180px;
+            margin-top: 40px;
+            margin-bottom:40px ;
+        }
+        .jumbotron h1 ,pre{
+            text-align: center;
+            color:black;
+        }
+        .jumbotron h1{
+            margin-bottom: 25px;
+            color: rgb(71, 64, 64);
+            padding-top: 20px;
+        }
+        .jumbotron pre{
+            color: rgb(92, 84, 84);
+        }
+        .bttn{
+            margin-left: 50px;
+            margin-top: 20px;
+        }
+        .Lorem{
+            margin-left: 300px;
+        }
+        .pho6{
+            margin-top: 40px;
+            margin-left: 180px;
+        }
+        .fot{
+            margin-bottom: 40px;
+            margin-top: 70px;
+            margin-left: -170px;
+        }       
+        .carrd-title{
+            text-align: center;
+            margin-bottom: 20px;
+            padding-top: 50px;
+        }
+        .carrd-text{
+            margin-left: 5px;
+        }
+        .icons{
+            margin-left: 200px;
+            padding: 10px;
+        }
+        .last{
+            margin-left: 220px;
+            margin-top: 10px;
+        }
+        } 
+        @media(max-width:770px){
+            .nav{
+                margin-left: 120px;
+            }  
+            .card img{
+                margin-left: 10px;
+            }  
+            .card-title{
+                margin-left: 380px;
+                margin-top: 138px;
+            }
+            .card-text{
+                margin-left: 280px;
+            
+            }
+            .btn{
+                margin-left: 370px;
+            }
+            .card-titlle{
+                margin-top: 15px;
+                margin-left: 160px;
+            }
+            .card-textt{
+                margin-left: 170px;
+            }
+            
+            .photo1 img{
+                width: 200px;
+                height: 300px;
+                margin-left: -10px;
+            } 
+            .photo1 h4{
+                margin-left: -5px;
+            }
+            .photo1 p{
+                margin-left: 70px;
+                color: gray;
+            }
+            .photo2 img{
+                width: 220px;
+                height: 300px;
+                margin-left: -160px;
+                margin-bottom: 10px;
+            } 
+            .photo2 h4{
+                margin-left:-155px;
+                margin-bottom: 8px;
+            }
+            .photo2 p{
+                margin-left: -65px;
+                color: gray;
+               
+            }
+            .photo3 img{
+                width: 220px;
+                height: 300px;
+                margin-left: -300px;
+            } 
+            .photo3 h4{
+                margin-left:-300px;
+            }
+            .photo3 p{
+                margin-left: -200px;
+                color: gray;
+            }
+            .btn2{
+                margin-left:-120px;
+                margin-top: 40px;
+                margin-bottom: 15px;
+            }
+            .jumbotron{
+                margin-left: -180px;
+                margin-top: 40px;
+                margin-bottom:40px ;
+            }
+            .jumbotron h1 ,pre{
+                text-align: center;
+                color:black;
+            }
+            .jumbotron h1{
+                margin-bottom: 25px;
+                color: rgb(71, 64, 64);
+                padding-top: 20px;
+            }
+            .jumbotron pre{
+                color: rgb(92, 84, 84);
+            }
+            .bttn{
+                margin-left: 120px;
+                margin-top: 20px;
+            }
+            .Lorem{
+                margin-left: 280px;
+            }
+            .pho6{
+                margin-top: 40px;
+                margin-left: 180px;
+            }
+            .fot{
+                margin-bottom: 40px;
+                margin-top: 70px;
+                margin-left: -170px;
+            }       
+            .carrd-title{
+                text-align: center;
+                margin-bottom: 20px;
+                padding-top: 50px;
+            }
+            .carrd-text{
+                margin-left: -5px;
+            }
+            .icons{
+                margin-left: 220px;
+                padding: 10px;
+            }
+            .last{
+                margin-left: 240px;
+                margin-top: 10px;
+            }
+        }@media(max-width:740px){
+            .nav{
+                margin-left: 100px;
+            }  
+            .card img{
+                margin-left: -50px;
+            }  
+            .card-title{
+                margin-left: 320px;
+                margin-top: 138px;
+            }
+            .card-text{
+                margin-left: 210px;
+            
+            }
+            .btn{
+                margin-left: 330px;
+            }
+            .card-titlle{
+                margin-top: 15px;
+                margin-left: 120px;
+            }
+            .card-textt{
+                margin-left: 130px;
+            }
+            
+            .photo1 img{
+                width: 200px;
+                height: 300px;
+                margin-left: -80px;
+            } 
+            .photo1 h4{
+                margin-left: -75px;
+            }
+            .photo1 p{
+                margin-left: -2px;
+                color: gray;
+            }
+            .photo2 img{
+                width: 220px;
+                height: 300px;
+                margin-left: -260px;
+                margin-bottom: 10px;
+            } 
+            .photo2 h4{
+                margin-left:-250px;
+                margin-bottom: 8px;
+            }
+            .photo2 p{
+                margin-left: -160px;
+                color: gray;
+               
+            }
+            .photo3 img{
+                width: 220px;
+                height: 300px;
+                margin-left: -420px;
+            } 
+            .photo3 h4{
+                margin-left:-400px;
+            }
+            .photo3 p{
+                margin-left: -300px;
+                color: gray;
+            }
+            .btn2{
+                margin-left:-90px;
+                margin-top: 40px;
+                margin-bottom: 15px;
+            }
+            .jumbotron{
+                margin-left: -180px;
+                margin-top: 40px;
+                margin-bottom:40px ;
+            }
+            .jumbotron h1 ,pre{
+                text-align: center;
+                color:black;
+            }
+            .jumbotron h1{
+                margin-bottom: 25px;
+                color: rgb(71, 64, 64);
+                padding-top: 20px;
+            }
+            .jumbotron pre{
+                color: rgb(92, 84, 84);
+                margin-left: -30px;
+            }
+            .bttn{
+                margin-left: 120px;
+                margin-top: 20px;
+            }
+            .Lorem{
+                margin-left: 280px;
+            }
+            .pho6{
+                margin-top: 40px;
+                margin-left: 180px;
+            }
+            .fot{
+                margin-bottom: 40px;
+                margin-top: 70px;
+                margin-left: -170px;
+            }       
+            .carrd-title{
+                text-align: center;
+                margin-bottom: 20px;
+                padding-top: 50px;
+            }
+            .carrd-text{
+                margin-left: 100px;
+            }
+            .icons{
+                margin-left: 220px;
+                padding: 10px;
+            }
+            .last{
+                margin-left: 240px;
+                margin-top: 10px;
+            }
+        }
+    @media(max-width:685px){
+        .nav{
+            margin-left: -10px;
+        }  
+        .card img{
+            margin-left: -90px;
+        }  
+        .card-title{
+            margin-left: 260px;
+            margin-top: 138px;
+        }
+        .card-text{
+            margin-left: 170px;
+        
+        }
+        .btn{
+            margin-left: 290px;
+        }
+        .card-titlle{
+            margin-top: 15px;
+            margin-left: 60px;
+        }
+        .card-textt{
+            margin-left: 80px;
+        }
+        
+        .photo1 img{
+            width: 200px;
+            height: 300px;
+            margin-left: -80px;
+        } 
+        .photo1 h4{
+            margin-left: -75px;
+        }
+        .photo1 p{
+            margin-left: -2px;
+            color: gray;
+        }
+        .photo2 img{
+            width: 220px;
+            height: 300px;
+            margin-left: -260px;
+            margin-bottom: 10px;
+        } 
+        .photo2 h4{
+            margin-left:-250px;
+            margin-bottom: 8px;
+        }
+        .photo2 p{
+            margin-left: -160px;
+            color: gray;
+           
+        }
+        .photo3 img{
+            width: 220px;
+            height: 300px;
+            margin-left: -420px;
+        } 
+        .photo3 h4{
+            margin-left:-400px;
+        }
+        .photo3 p{
+            margin-left: -300px;
+            color: gray;
+        }
+        .btn2{
+            margin-left:-90px;
+            margin-top: 40px;
+            margin-bottom: 15px;
+        }
+        .jumbotron{
+            margin-left: -180px;
+            margin-top: 40px;
+            margin-bottom:40px ;
+        }
+        .jumbotron h1 ,pre{
+            text-align: center;
+            color:black;
+        }
+        .jumbotron h1{
+            margin-bottom: 25px;
+            color: rgb(71, 64, 64);
+            padding-top: 20px;
+        }
+        .jumbotron pre{
+            color: rgb(92, 84, 84);
+            margin-left: -30px;
+        }
+        .bttn{
+            margin-left: 120px;
+            margin-top: 20px;
+        }
+        .Lorem{
+            margin-left: 280px;
+        }
+        .pho6{
+            margin-top: 40px;
+            margin-left: 180px;
+        }
+        .fot{
+            margin-bottom: 40px;
+            margin-top: 70px;
+            margin-left: -170px;
+        }       
+        .carrd-title{
+            text-align: center;
+            margin-bottom: 20px;
+            padding-top: 50px;
+        }
+        .carrd-text{
+            margin-left: 100px;
+        }
+        .icons{
+            margin-left: 220px;
+            padding: 10px;
+        }
+        .last{
+            margin-left: 240px;
+            margin-top: 10px;
+        }
+    }@media(max-width:620px){
+        .nav{
+            margin-left: -10px;
+        }  
+        .card img{
+            margin-left: -100px;
+        }  
+        .card-title{
+            margin-left: 200px;
+            margin-top: 80px;
+        }
+        .card-text{
+            margin-left: 100px;
+        
+        }
+        .btn{
+            margin-left: 240px;
+        }
+        .card-titlle{
+            margin-top: 15px;
+            margin-left: 60px;
+        }
+        .card-textt{
+            margin-left: 80px;
+        }
+        
+        .photo1 img{
+            width: 240px;
+            height: 300px;
+            margin-left: 160px;
+        } 
+        .photo1 h4{
+            margin-left: 180px;
+        }
+        .photo1 p{
+            margin-left: 260px;
+            color: gray;
+        }
+        .photo2 img{
+            width: 240px;
+            height: 300px;
+            margin-left: -240px;
+            margin-bottom: 10px;
+            margin-top: 460px;
+    
+        } 
+        .photo2 h4{
+            margin-left:-220px;
+            margin-bottom: 8px;
+        }
+        .photo2 p{
+            margin-left: -130px;
+            color: gray;
+           
+        }
+        .photo3 img{
+            width: 240px;
+            height: 300px;
+            margin-left: -640px;
+            margin-top: 450px;
+        } 
+        .photo3 h4{
+            margin-left:-620px;
+        }
+        .photo3 p{
+            margin-left: -520px;
+            color: gray;
+        }
+        .btn2{
+            margin-left:-40px;
+            margin-top: 40px;
+            margin-bottom: 15px;
+        }
+        .jumbotron{
+            margin-left: -200px;
+            margin-top: 40px;
+            margin-bottom:40px ;
+            width: 900px;
+            height: 300px;
+        }
+        .jumbotron h1 ,pre{
+            text-align: center;
+            color:black;
+        }
+        .jumbotron h1{
+            margin-bottom: 25px;
+            color: rgb(71, 64, 64);
+            padding-top: 20px;
+            margin-left: 60px;
+
+        }
+        .jumbotron pre{
+            color: rgb(92, 84, 84);
+            margin-left: 70px;
+        }
+        .bttn{
+            margin-left: 170px;
+            margin-top: 20px;
+        }
+        .Lorem{
+            margin-left: 220px;
+        }
+        .pho6{
+            margin-top: 40px;
+            margin-left: 120px;
+        }
+        .fot{
+            margin-bottom: 40px;
+            margin-top: 70px;
+            margin-left: -220px;
+        }       
+        .carrd-title{
+            text-align: center;
+            margin-bottom: 20px;
+            padding-top: 50px;
+            margin-left: 30px;
+        }
+        .carrd-text{
+            margin-left: 40px;
+        }
+        .icons{
+            margin-left: 160px;
+            padding: 10px;
+        }
+        .last{
+            margin-left: 180px;
+            margin-top: 10px;
+        }
+    } 
+    @media(max-width:550px){
+        .nav{
+            margin-left: -10px;
+            display: block;
+        }  
+        .card img{
+            margin-left: -170px;
+        }  
+        .card-title{
+            margin-left: 60px;
+            margin-top: -10px;
+        }
+        .card-text{
+            margin-left: -30px;
+        
+        }
+        .btn{
+            margin-left: 110px;
+        }
+        .card-titlle{
+            margin-top: 15px;
+            margin-left: 20px;
+        }
+        .card-textt{
+            margin-left: 30px;
+        }
+        
+        .photo1 img{
+            width: 400px;
+            height: 300px;
+            margin-left: 48px;
+        } 
+        .photo1 h4{
+            margin-left: 150px;
+        }
+        .photo1 p{
+            margin-left: 220px;
+            color: gray;
+        }
+        .photo2 img{
+            width: 400px;
+            height: 300px;
+            margin-left: -350px;
+            margin-bottom: 10px;
+            margin-top: 460px;
+    
+        } 
+        .photo2 h4{
+            margin-left:-260px;
+            margin-bottom: 8px;
+        }
+        .photo2 p{
+            margin-left: -170px;
+            color: gray;
+           
+        }
+        .photo3 img{
+            width: 400px;
+            height: 300px;
+            margin-left: -750px;
+            margin-top: 450px;
+        } 
+        .photo3 h4{
+            margin-left:-660px;
+        }
+        .photo3 p{
+            margin-left: -570px;
+            color: gray;
+        }
+        .btn2{
+            margin-left:10px;
+            margin-top: 40px;
+            margin-bottom: 15px;
+        }
+        .jumbotron{
+            margin-left: -280px;
+            margin-top: 40px;
+            margin-bottom:40px ;
+            width: 900px;
+            height: 300px;
+        }
+        .jumbotron h1 ,pre{
+            text-align: center;
+            color:black;
+        }
+        .jumbotron h1{
+            margin-bottom: 25px;
+            color: rgb(71, 64, 64);
+            padding-top: 20px;
+            margin-left: 140px;
+
+        }
+        .jumbotron pre{
+            color: rgb(92, 84, 84);
+            margin-left: 130px;
+        }
+        .bttn{
+            margin-left: 320px;
+            margin-top: 20px;
+        }
+        .Lorem{
+            margin-left: 150px;
+        }
+        .pho6{
+            margin-top: 40px;
+            margin-left: 63px;
+        }
+        .fot{
+            margin-bottom: 40px;
+            margin-top: 70px;
+            margin-left: -260px;
+        }       
+        .carrd-title{
+            text-align: center;
+            margin-bottom: 20px;
+            padding-top: 50px;
+            margin-left: 30px;
+        }
+        .carrd-text{
+            margin-left: 40px;
+        }
+        
+        .icons{
+            margin-left: 80px;
+            padding: 10px;
+        }
+        .last{
+            margin-left: 110px;
+            margin-top: 10px;
+        }
+    }
+    @media(max-width:425px){
+        .nav{
+            margin-left: -10px;
+            display: block;
+        }  
+        .card img{
+            margin-left: -170px;
+        }  
+        .card-title{
+            margin-left: 60px;
+            margin-top: -10px;
+        }
+        .card-text{
+            margin-left: -30px;
+        
+        }
+        .btn{
+            margin-left: 110px;
+        }
+        .card-titlle{
+            margin-top: 15px;
+            margin-left: 20px;
+        }
+        .card-textt{
+            margin-left: 30px;
+        }
+        
+        .photo1 img{
+            width: 240px;
+            height: 300px;
+            margin-left: 60px;
+        } 
+        .photo1 h4{
+            margin-left: 80px;
+        }
+        .photo1 p{
+            margin-left: 150px;
+            color: gray;
+        }
+        .photo2 img{
+            width: 240px;
+            height: 300px;
+            margin-left: -350px;
+            margin-bottom: 10px;
+            margin-top: 460px;
+    
+        } 
+        .photo2 h4{
+            margin-left:-330px;
+            margin-bottom: 8px;
+        }
+        .photo2 p{
+            margin-left: -240px;
+            color: gray;
+           
+        }
+        .photo3 img{
+            width: 240px;
+            height: 300px;
+            margin-left: -750px;
+            margin-top: 450px;
+        } 
+        .photo3 h4{
+            margin-left:-730px;
+        }
+        .photo3 p{
+            margin-left: -640px;
+            color: gray;
+        }
+        .btn2{
+            margin-left:-50px;
+            margin-top: 40px;
+            margin-bottom: 15px;
+        }
+        .jumbotron{
+            margin-left: -290px;
+            margin-top: 40px;
+            margin-bottom:40px ;
+            width: 900px;
+            height: 300px;
+        }
+        .jumbotron h1 ,pre{
+            text-align: center;
+            color:black;
+        }
+        .jumbotron h1{
+            margin-bottom: 25px;
+            color: rgb(71, 64, 64);
+            padding-top: 20px;
+            margin-left: 70px;
+
+        }
+        .jumbotron pre{
+            color: rgb(92, 84, 84);
+            margin-left: 70px;
+        }
+        .bttn{
+            margin-left: 280px;
+            margin-top: 20px;
+        }
+        .Lorem{
+            margin-left: 120px;
+        }
+        .pho6{
+            margin-top: 40px;
+            margin-left: 30px;
+        }
+        .fot{
+            margin-bottom: 40px;
+            margin-top: 70px;
+            margin-left: -300px;
+        }       
+        .carrd-title{
+            text-align: center;
+            margin-bottom: 20px;
+            padding-top: 50px;
+            margin-left: 1px;
+        }
+        .carrd-text{
+            margin-left: 10px;
+        }
+        
+        .icons{
+            margin-left: 40px;
+            padding: 10px;
+        }
+        .last{
+            margin-left: 70px;
+            margin-top: 10px;
+        }}
+        
+    @media(max-width:415px){
+        .nav{
+            margin-left: -10px;
+            display: block;
+        }  
+        .card img{
+            margin-left: -270px;
+        }  
+        .card-title{
+            margin-left:34px;
+            margin-bottom: 10px;
+            margin-top: 40px;
+        }
+        .card-text{
+            margin-left: -27px;
+        
+        }
+        .btn{
+            margin-left: 36px;
+        }
+        .card-titlle{
+            margin-top: 15px;
+            margin-left: 20px;
+        }
+        .card-textt{
+            margin-left: 30px;
+        }
+        
+        .photo1 img{
+            width: 350px;
+            height: 300px;
+            margin-left: 10px;
+        } 
+        .photo1 h4{
+            margin-left: 100px;
+        }
+        .photo1 p{
+            margin-left: 170px;
+            color: gray;
+        }
+        .photo2 img{
+            width: 350px;
+            height: 300px;
+            margin-left: -390px;
+            margin-bottom: 10px;
+            margin-top: 460px;
+    
+        } 
+        .photo2 h4{
+            margin-left:-300px;
+            margin-bottom: 8px;
+        }
+        .photo2 p{
+            margin-left: -210px;
+            color: gray;
+           
+        }
+        .photo3 img{
+            width: 350px;
+            height: 300px;
+            margin-left: -790px;
+            margin-top: 450px;
+        } 
+        .photo3 h4{
+            margin-left:-700px;
+        }
+        .photo3 p{
+            margin-left: -610px;
+            color: gray;
+        }
+        .btn2{
+            margin-left:30px;
+            margin-top: 40px;
+            margin-bottom: 15px;
+        }
+        .jumbotron{
+            margin-left: -260px;
+            margin-top: 40px;
+            margin-bottom:40px ;
+            width: 900px;
+            height: 300px;
+        }
+        .jumbotron h1 ,pre{
+            text-align: center;
+            color:black;
+        }
+        .jumbotron h1{
+            margin-bottom: 25px;
+            color: rgb(71, 64, 64);
+            padding-top: 20px;
+            margin-left: -19px;
+
+        }
+        .jumbotron pre{
+            color: rgb(92, 84, 84);
+            margin-left: 10px;
+        }
+        .bttn{
+            margin-left: 300px;
+            margin-top: 20px;
+        }
+        .Lorem{
+            margin-left: 120px;
+        }
+        .pho6{
+            margin-top: 40px;
+            margin-left: 10px;
+            
+        }
+        .fot{
+            margin-bottom: 40px;
+            margin-top: 70px;
+            margin-left: -305px;
+        }       
+        .carrd-title{
+            text-align: center;
+            margin-bottom: 20px;
+            padding-top: 50px;
+            margin-left: 1px;
+        }
+        .carrd-text{
+            margin-left: 10px;
+        }
+        
+        .icons{
+            margin-left: 40px;
+            padding: 10px;
+        }
+        .last{
+            margin-left: 70px;
+            margin-top: 10px;
+        }}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
